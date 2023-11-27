@@ -48,7 +48,7 @@ public class Laptop {
     }
 }
 
-
+class App {
     public static void main(String[] args) throws Exception {
         Laptop laptop1 = new Laptop("Lenovo IdealPad 5", 8, 256, "Windows 11", "синий", 15.6);
         Laptop laptop2 = new Laptop("Honor MagicBook 16", 16, 512, "без ОС", "серый", 16.1);
